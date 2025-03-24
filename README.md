@@ -35,7 +35,7 @@ This project is built using the following tools and technologies:
 ## ⚡ Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/your-repository.git
+git clone [https://github.com/yourusername/your-repository.git](https://github.com/prasad291024/LearningSeleniumATB10x)
 cd your-repository
 ```
 

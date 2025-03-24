@@ -1,4 +1,5 @@
 # Selenium UI Automation Project
+**Author - Prasad Valiv**
 
 ## 📌 Project Overview
 This repository contains an end-to-end UI automation framework using **Selenium with Java**. The framework is designed to be scalable, maintainable, and efficient for automating web applications. It follows industry best practices, integrates with CI/CD pipelines, and supports data-driven testing.

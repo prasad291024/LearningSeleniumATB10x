@@ -56,7 +56,7 @@ mvn test
 ```
 #### Run specific suite from `testng.xml`
 ```sh
-mvn test -DsuiteXmlFile=testng.xml
+mvn test -DsuiteXmlFile=TestSelenium01_testng.xml
 ```
 #### Run tests in parallel
 Modify `testng.xml` to set parallel execution.

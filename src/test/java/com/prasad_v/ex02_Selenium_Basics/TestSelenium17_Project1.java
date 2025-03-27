@@ -1,4 +1,11 @@
 package com.prasad_v.ex02_Selenium_Basics;
+// Locators - Find the Web elements
+// Open the URL https://app.vwo.com/#/login
+// Find the Email id** and enter the email as **admin@admin.com**
+// Find the Pass inputbox** and enter passwrod as **admin**.
+// Find and Click on the submit button
+// Verify that the error message is shown "Your email, password, IP address or location did not match"
+
 
 import io.qameta.allure.Description;
 import junit.framework.TestCase; // JUnit TestCase for assertions

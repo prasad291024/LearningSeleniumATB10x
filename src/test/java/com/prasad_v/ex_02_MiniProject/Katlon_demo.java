@@ -19,7 +19,7 @@ public class Katlon_demo {
         EdgeOptions options = new EdgeOptions();
         options.addArguments("--start-maximized");
 
-        // ✅ Correct: Initialize the global WebDriver
+        // Correct: Initialize the global WebDriver
         this.driver = new EdgeDriver(options);
         driver.get("https://katalon-demo-cura.herokuapp.com/");
     }

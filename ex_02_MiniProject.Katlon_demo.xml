@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Katalon Demo Test Suite">
+    <test name="Katalon_Login_Test">
+        <classes>
+            <class name="com.prasad_v.ex_02_MiniProject.Katlon_demo"/>
+        </classes>
+    </test>
+</suite>

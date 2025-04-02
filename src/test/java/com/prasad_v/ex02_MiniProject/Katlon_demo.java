@@ -1,4 +1,4 @@
-package com.prasad_v.ex_02_MiniProject;
+package com.prasad_v.ex02_MiniProject;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
